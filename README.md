@@ -1,4 +1,4 @@
-# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=23&duration=1200&pause=5900&color=2600FF&center=true&vCenter=true&multiline=true&width=435&lines=Telecommunication+Analytics+Project)](https://git.io/typing-svg) </h1>
+# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=26&duration=1200&pause=5900&color=2600FF&center=true&vCenter=true&multiline=true&width=435&lines=Telecommunication+Analytics+Project)](https://git.io/typing-svg) </h1>
 
 <p align="center">
 <img src="./_src/images/telecomunicaciones.png"  height=300>
