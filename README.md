@@ -19,7 +19,11 @@ Las telecomunicaciones son la transmisión de información a través de medios e
 <img src="./_src/images/EDA.png"  height=200>
 </p>
 
-En el siguiente archivo: [**EDA**](https://github.com/Gabrielnm7/Telecommunication-Analytics-Project/blob/main/EDA.ipynb), encontrarás un minucioso estudio que explora en profundidad los diversos conjuntos de datos extraídos de la página web oficial del Ente Nacional de Comunicaciones ([_ENACOM_](https://datosabiertos.enacom.gob.ar/home)). Podrás observar análisis meticulosos que extraen información valiosa como por ejemplo sobre el comportamiento de ingresos a lo largo de los años, así como el promedio de accesos por hogar y la evolución de las distintas tecnologías en todas las regiones del país. También podrás visualizar gráficos intuitivos y conclusiones reveladoras. Prestaremos atención a las tendencias emergentes, patrones ocultos y datos significativos que nos ayudarán a tomar decisiones informadas y estratégicas para la realización de los KPIs
+En el siguiente archivo: [**EDA**](https://github.com/Gabrielnm7/Telecommunication-Analytics-Project/blob/main/EDA.ipynb), encontrarás un minucioso estudio que explora en profundidad los diversos conjuntos de datos extraídos de la página web oficial del Ente Nacional de Comunicaciones ([_ENACOM_](https://datosabiertos.enacom.gob.ar/home)). Podrás observar análisis meticulosos que extraen información valiosa como por ejemplo sobre el comportamiento de ingresos a lo largo de los años, así como el promedio de accesos por hogar y la evolución de las distintas tecnologías en todas las regiones del país. También podrás visualizar gráficos intuitivos y conclusiones reveladoras. Prestaremos atención a las tendencias emergentes, patrones ocultos y datos significativos que nos ayudarán a tomar decisiones informadas y estratégicas para la realización de los `KPIs`. _**Estos son los siguientes**_:
+> + `Aumentar en 52 % el uso de tecnologias mas avanzadas _(Fibra Óptica)_ para el siguiente año a nivel nacional`
+> + `Aumentar en 45 % los ingresos para el siguiente año`
+> + `Aumentar en 35 % la velocidad media para el proximo año a nivel nacional`: 
+
 
 # <h1 align="center"> **Dashboard**  </h1>
 <p align="center">
