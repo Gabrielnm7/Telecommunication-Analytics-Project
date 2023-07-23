@@ -39,6 +39,15 @@ Una vez que hayas descargado Power BI, simplemente abre el archivo llamado [**_D
 + [PowerBI](https://powerbi.microsoft.com/es-es/): Página web oficial de la aplicacion de Microsoft donde vas a poder descargar la aplicacions para la visualizacion del dashboard.
 + [Datasets](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/): Este link te llevara a la pagina web oficial del ENACOM donde podras acceder a los distintos datasets que se trabajaron en este proyecto.
 
+## **Tecnologias usadas**: 
++ Pandas
++ Matplotlib
++ Seaborn
++ PowerBI
+
+## **Contacto**
++ _Linkedin_ : https://www.linkedin.com/in/gabriel-nu%C3%B1ez-moreno/
++ _Correo Electronico_ : gabrielnm07@gmail.com
 
 # **Disclaimer**
 Este proyecto fue realizado durante la etapa de Labs de la academia Soy Henry. 
